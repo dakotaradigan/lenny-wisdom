@@ -1,0 +1,8 @@
+{
+  "name": "lenny-wisdom",
+  "version": "1.0.0",
+  "description": "Socratic thought partner for product managers, powered by Lenny Rachitsky's podcast and newsletter wisdom",
+  "author": "Dakota Radigan",
+  "license": "MIT",
+  "keywords": ["product-management", "frameworks", "coaching", "lenny-podcast"]
+}
