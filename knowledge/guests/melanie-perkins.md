@@ -4,6 +4,7 @@ description: Column B thinking, crazy big goals, chaos to clarity, vision-driven
 expertise: ["vision-driven-building", "crazy-big-goals", "chaos-to-clarity", "mission-pillars", "founder-resilience", "product-vision"]
 companies: ["Canva"]
 panel: true
+topics: ["startups-and-founding"]
 ---
 
 # Melanie Perkins

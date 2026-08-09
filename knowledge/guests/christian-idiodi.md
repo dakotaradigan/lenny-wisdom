@@ -4,6 +4,7 @@ description: SVPG partner on the essence of product management, earning trust th
 expertise: ["product-management-essence", "product-discovery", "pm-competence-building", "product-coaching", "value-risk-assessment", "empowered-teams", "svpg-methodology"]
 companies: ["Silicon Valley Product Group (SVPG)"]
 panel: false
+topics: ["b2b-products"]
 ---
 
 # Christian Idiodi

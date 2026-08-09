@@ -4,6 +4,7 @@ description: Co-founder of Jellyfish and enterprise sales expert specializing in
 expertise: ["founder-led-sales", "enterprise-sales", "cold-outreach", "sales-process", "B2B-sales", "startup-sales"]
 companies: ["Jellyfish", "State Affairs", "The Muse", "General Assembly"]
 panel: false
+topics: ["go-to-market-and-sales"]
 ---
 
 # Jen Abel

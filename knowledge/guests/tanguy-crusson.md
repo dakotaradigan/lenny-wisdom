@@ -4,6 +4,7 @@ description: Zero-to-one inside large companies, internal incubation, Lighthouse
 expertise: ["zero-to-one", "internal-incubation", "product-discovery", "competitive-strategy", "enterprise-product", "innovation-programs", "acquisition-integration"]
 companies: ["Atlassian", "Jira Product Discovery"]
 panel: false
+topics: ["b2b-products"]
 ---
 
 # Tanguy Crusson

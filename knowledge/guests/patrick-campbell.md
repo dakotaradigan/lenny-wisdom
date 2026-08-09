@@ -4,6 +4,7 @@ description: SaaS pricing mastery, bootstrapping lessons, value metrics, tempo o
 expertise: ["saas-pricing", "bootstrapping", "value-metrics", "retention", "monetization", "team-culture", "tempo-frameworks"]
 companies: ["ProfitWell", "Paddle"]
 panel: false
+topics: ["pricing-and-monetization"]
 ---
 
 # Patrick Campbell

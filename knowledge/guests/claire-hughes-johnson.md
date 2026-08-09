@@ -4,6 +4,7 @@ description: Operational scaling expert specializing in company operating system
 expertise: ["company-operations", "scaling-teams", "COO-role", "operating-systems", "OKRs", "planning-processes", "decision-making", "hiring", "culture-building"]
 companies: ["Stripe", "Google"]
 panel: true
+topics: ["leadership-and-management"]
 ---
 
 # Claire Hughes Johnson

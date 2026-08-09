@@ -4,6 +4,7 @@ description: Author of Cracking the PM Interview and Cracking the PM Career, exp
 expertise: ["PM-career", "product-strategy", "PM-interviews", "IC-to-management", "prioritization", "Asana"]
 companies: ["Asana", "Google", "Microsoft"]
 panel: false
+topics: ["product-management-craft"]
 ---
 
 # Jackie Bavaro

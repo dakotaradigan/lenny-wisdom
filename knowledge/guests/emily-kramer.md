@@ -4,6 +4,7 @@ description: B2B marketing leader specializing in building marketing teams from 
 expertise: ["B2B-marketing", "marketing-team-building", "first-marketing-hire", "content-marketing", "demand-generation", "marketing-strategy", "brand-marketing"]
 companies: ["Asana", "Carta", "Ticketfly", "Astro/Slack", "MKT1"]
 panel: false
+topics: ["go-to-market-and-sales"]
 ---
 
 # Emily Kramer

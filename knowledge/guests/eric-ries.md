@@ -4,6 +4,7 @@ description: Creator of the Lean Startup methodology, MVP design, pivot strategy
 expertise: ["lean-startup", "mvp-design", "pivot-strategy", "innovation-accounting", "entrepreneurship", "first-principles", "corporate-governance", "experimentation"]
 companies: ["IMVU", "Long-Term Stock Exchange"]
 panel: true
+topics: ["startups-and-founding"]
 ---
 
 # Eric Ries

@@ -4,6 +4,7 @@ description: Pattern-breaking startup ideas, inflections-insights-founder fit fr
 expertise: ["startup-ideas", "seed-investing", "inflections", "pattern-breaking", "founder-market-fit", "backcasting"]
 companies: ["Floodgate"]
 panel: true
+topics: ["startups-and-founding"]
 ---
 
 # Mike Maples Jr

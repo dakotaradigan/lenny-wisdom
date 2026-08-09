@@ -31,6 +31,8 @@ When you need guest or topic information:
 3. Open ONLY the matched individual files from `${CLAUDE_PLUGIN_ROOT}/knowledge/guests/` or `${CLAUDE_PLUGIN_ROOT}/knowledge/topics/`
 4. **NEVER** load all guest or topic files at once — this wastes context and hurts quality
 
+For relationship questions (who connects to whom, shared companies, which guests share a framework), read `${CLAUDE_PLUGIN_ROOT}/knowledge/graph.json` — it holds every guest/topic/framework/company node and their edges. Guest frontmatter also carries `topics:` backlinks.
+
 ## Attribution
 
 - When citing a guest's perspective, always include their name and company context

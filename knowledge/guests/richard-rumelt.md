@@ -4,6 +4,7 @@ description: Good strategy bad strategy, the kernel of strategy, diagnosis-guidi
 expertise: ["strategy", "diagnosis", "strategic-focus", "competitive-advantage", "bad-strategy-detection", "power-asymmetry"]
 companies: ["UCLA Anderson", "Harvard Business School"]
 panel: false
+topics: ["product-strategy", "systems-thinking-and-mental-models"]
 ---
 
 # Richard Rumelt

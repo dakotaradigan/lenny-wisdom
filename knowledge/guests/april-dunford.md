@@ -4,6 +4,7 @@ description: World's foremost product positioning expert, author of Obviously Aw
 expertise: ["product-positioning", "b2b-positioning-methodology", "competitive-differentiation", "sales-process-optimization", "market-category-selection", "repositioning-products", "positioning-workshops", "segment-targeting"]
 companies: ["Obviously Awesome (book)"]
 panel: true
+topics: ["go-to-market-and-sales", "product-strategy"]
 ---
 
 # April Dunford

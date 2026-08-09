@@ -4,6 +4,7 @@ description: Founder and CEO of Vercel, creator of Next.js, v0 AI building tool,
 expertise: ["developer-tools", "ai-building-tools", "web-frameworks", "open-source", "product-taste", "future-of-engineering", "TAM-expansion"]
 companies: ["Vercel"]
 panel: true
+topics: ["engineering-and-technical"]
 ---
 
 # Guillermo Rauch

@@ -4,6 +4,7 @@ description: Public speaking anxiety, spontaneous communication, presentation te
 expertise: ["public-speaking", "spontaneous-communication", "presentation-techniques", "communication-coaching", "anxiety-management"]
 companies: ["Stanford Graduate School of Business"]
 panel: false
+topics: ["career-development"]
 ---
 
 # Matt Abrahams

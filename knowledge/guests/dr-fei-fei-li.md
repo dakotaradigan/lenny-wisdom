@@ -4,6 +4,7 @@ description: AI pioneer and humanist specializing in the history and future of a
 expertise: ["AI-history", "visual-intelligence", "world-models", "responsible-AI", "ImageNet", "computer-vision", "AI-ethics", "AI-research"]
 companies: ["Stanford AI Lab", "Google Cloud", "World Labs"]
 panel: true
+topics: ["ai-and-machine-learning"]
 ---
 
 # Dr. Fei-Fei Li

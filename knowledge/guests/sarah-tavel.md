@@ -4,6 +4,7 @@ description: Hierarchy of engagement for consumer products, hierarchy of marketp
 expertise: ["consumer-engagement", "marketplace-strategy", "core-user-action", "marketplace-tipping", "retention-strategy", "network-effects", "growth-loops", "happy-GMV", "consumer-product-strategy", "venture-capital"]
 companies: ["Benchmark", "Pinterest", "Greylock"]
 panel: true
+topics: ["consumer-products"]
 ---
 
 # Sarah Tavel

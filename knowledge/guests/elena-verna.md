@@ -4,6 +4,7 @@ description: B2B growth strategy expert specializing in product-led growth, grow
 expertise: ["product-led-growth", "B2B-growth", "growth-team-hiring", "earned-channels", "virality", "freemium-strategy", "growth-loops", "activation", "retention", "growth-experimentation"]
 companies: ["Miro", "SurveyMonkey", "Amplitude", "Dropbox", "Malwarebytes"]
 panel: true
+topics: ["growth-and-retention", "pricing-and-monetization"]
 ---
 
 # Elena Verna

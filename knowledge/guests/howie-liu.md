@@ -4,6 +4,7 @@ description: CEO and co-founder of Airtable, expert on AI-era company transforma
 expertise: ["AI-transformation", "IC-CEO", "org-design", "product-led-growth", "no-code", "agentic-products", "startup-resilience"]
 companies: ["Airtable"]
 panel: true
+topics: ["b2b-products"]
 ---
 
 # Howie Liu

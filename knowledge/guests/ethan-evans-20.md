@@ -4,6 +4,7 @@ description: The Magic Loop career framework, Amazon leadership principles, exec
 expertise: ["career-growth", "magic-loop", "executive-coaching", "leadership-principles", "amazon-culture", "invention", "manager-relationships"]
 companies: ["Amazon"]
 panel: false
+topics: ["career-development"]
 ---
 
 # Ethan Evans

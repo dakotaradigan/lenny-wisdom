@@ -4,6 +4,7 @@ description: VP of Analytics and Data Science at DoorDash, expert on building ce
 expertise: ["data-org-structure", "analytics-leadership", "metrics-definition", "centralized-data-teams", "marketplace-analytics", "DoorDash"]
 companies: ["DoorDash"]
 panel: false
+topics: ["analytics-and-metrics"]
 ---
 
 # Jessica Lachs

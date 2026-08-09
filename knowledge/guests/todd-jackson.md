@@ -4,6 +4,7 @@ description: Product-market fit framework, B2B startup methodology, founder-led 
 expertise: ["product-market-fit", "b2b-saas", "founder-led-sales", "startup-methodology", "customer-discovery", "product-positioning", "venture-capital"]
 companies: ["First Round Capital", "Gmail", "Facebook", "Twitter", "Dropbox", "Cover"]
 panel: false
+topics: ["product-market-fit"]
 ---
 
 # Todd Jackson

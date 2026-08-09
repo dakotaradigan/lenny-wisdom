@@ -4,6 +4,7 @@ description: OKR expert and Stanford lecturer on radical focus, OKR cadence, and
 expertise: ["okr-implementation", "radical-focus", "goal-setting", "okr-cadence", "team-alignment", "strategic-planning", "product-management-teaching"]
 companies: ["Stanford", "LinkedIn", "Zynga", "Yahoo", "MySpace"]
 panel: false
+topics: ["analytics-and-metrics"]
 ---
 
 # Christina Wodtke

@@ -4,6 +4,7 @@ description: Author of 7 Powers, business strategy as competitive advantage, pow
 expertise: ["business-strategy", "competitive-advantage", "7-powers", "moats", "power-progression", "scale-economies", "network-effects"]
 companies: ["Strategy Capital (Consultant/Author)"]
 panel: false
+topics: ["product-strategy", "systems-thinking-and-mental-models"]
 ---
 
 # Hamilton Helmer

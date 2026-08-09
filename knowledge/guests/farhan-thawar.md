@@ -4,6 +4,7 @@ description: Engineering leadership at Shopify, high-intensity culture, choosing
 expertise: ["engineering-leadership", "intensity-culture", "hiring", "pair-programming", "code-deletion", "hard-path-philosophy", "remote-work"]
 companies: ["Shopify"]
 panel: false
+topics: ["engineering-and-technical"]
 ---
 
 # Farhan Thawar

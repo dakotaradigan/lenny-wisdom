@@ -4,6 +4,7 @@ description: Growth strategy pioneer who coined growth hacking, invented the ICE
 expertise: ["product-market-fit", "growth-hacking", "activation-optimization", "freemium-strategy", "ICE-prioritization", "north-star-metrics", "referral-programs", "retention", "customer-acquisition"]
 companies: ["Dropbox", "Eventbrite", "LogMeIn", "Lookout", "Bounce"]
 panel: true
+topics: ["analytics-and-metrics", "growth-and-retention", "product-market-fit"]
 ---
 
 # Sean Ellis

@@ -4,6 +4,7 @@ description: Founder of SaaStr, the world's largest SaaS community, expert on bu
 expertise: ["SaaS-sales", "founder-led-sales", "sales-hiring", "VP-of-sales", "B2B-growth", "sales-team-building", "AI-sales-agents"]
 companies: ["SaaStr", "EchoSign (Adobe Sign)"]
 panel: true
+topics: ["b2b-products"]
 ---
 
 # Jason M Lemkin

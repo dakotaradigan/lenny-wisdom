@@ -4,6 +4,7 @@ description: PM career architecture, skip-level thinking, ex-growth company warn
 expertise: ["pm-career-development", "career-architecture", "promotions", "mentoring", "ex-growth-companies", "product-leadership"]
 companies: ["Meta", "Credit Karma", "Google"]
 panel: false
+topics: ["career-development"]
 ---
 
 # Nikhyl Singhal

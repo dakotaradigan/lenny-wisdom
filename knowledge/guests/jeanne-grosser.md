@@ -4,6 +4,7 @@ description: COO at Vercel and former CRO at Stripe, expert on world-class go-to
 expertise: ["go-to-market", "GTM-engineer", "sales-org-design", "PLG-to-sales", "enterprise-sales", "segmentation", "AI-sales-automation"]
 companies: ["Vercel", "Stripe", "Google"]
 panel: false
+topics: ["go-to-market-and-sales"]
 ---
 
 # Jeanne DeWitt Grosser

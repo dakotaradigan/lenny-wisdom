@@ -4,6 +4,7 @@ description: Fall in love with the problem, startup founding, product-market fit
 expertise: ["startup-founding", "problem-validation", "product-market-fit", "fundraising", "fail-fast", "entrepreneurship", "two-time-unicorn-builder"]
 companies: ["Waze", "Moovit", "Pontera"]
 panel: false
+topics: ["startups-and-founding"]
 ---
 
 # Uri Levine

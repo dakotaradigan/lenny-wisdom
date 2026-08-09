@@ -4,6 +4,7 @@ description: SEO strategist specializing in product-led SEO, SEO in the age of A
 expertise: ["product-led-SEO", "AI-search-impact", "SEO-strategy", "mid-funnel-optimization", "search-channel-strategy", "B2B-SEO", "consumer-SEO"]
 companies: ["SurveyMonkey", "Quora", "Coinbase", "Tinder", "LinkedIn", "Zapier"]
 panel: true
+topics: ["go-to-market-and-sales"]
 ---
 
 # Eli Schwartz

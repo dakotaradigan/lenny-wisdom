@@ -4,6 +4,7 @@ description: Communication frameworks, managing up, cohort-based courses, writin
 expertise: ["communication", "managing-up", "cohort-based-learning", "writing", "influence", "course-creation", "education-platforms"]
 companies: ["Maven", "altMBA", "Seth Godin"]
 panel: true
+topics: ["career-development"]
 ---
 
 # Wes Kao

@@ -4,6 +4,7 @@ description: AI engineering expert on practical AI product building, pre-trainin
 expertise: ["ai-engineering", "ai-product-building", "pre-training-post-training", "reinforcement-learning", "ai-evals", "rag-systems", "ai-productivity-measurement"]
 companies: ["NVIDIA", "Netflix", "Stanford"]
 panel: false
+topics: ["ai-and-machine-learning"]
 ---
 
 # Chip Huyen

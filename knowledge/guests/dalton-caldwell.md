@@ -4,6 +4,7 @@ description: Startup advisor specializing in pivoting strategy, founder resilien
 expertise: ["startup-pivoting", "founder-resilience", "tarpit-ideas", "Y-Combinator", "startup-fundamentals", "idea-validation", "fundraising", "product-market-fit"]
 companies: ["Y Combinator", "imeem", "App.net"]
 panel: false
+topics: ["product-market-fit", "startups-and-founding"]
 ---
 
 # Dalton Caldwell

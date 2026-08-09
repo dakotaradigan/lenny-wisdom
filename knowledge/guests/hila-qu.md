@@ -4,6 +4,7 @@ description: Product-led growth expert, adding PLG to sales-led companies, freem
 expertise: ["product-led-growth", "freemium-strategy", "activation", "retention", "self-service-growth", "B2B-saas", "growth-audit", "conversion-optimization"]
 companies: ["Reforge", "GitLab"]
 panel: false
+topics: ["growth-and-retention"]
 ---
 
 # Hila Qu

@@ -4,6 +4,7 @@ description: Consumer growth strategist on executive communication, growth strat
 expertise: ["consumer-growth-strategy", "executive-communication", "product-leadership", "growth-loops", "marketplace-growth", "cpo-craft", "upward-communication"]
 companies: ["Eventbrite", "Pinterest", "Greylock Partners", "GrubHub", "Airbnb (advisor)"]
 panel: false
+topics: ["growth-and-retention"]
 ---
 
 # Casey Winters

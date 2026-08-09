@@ -4,6 +4,7 @@ description: Four-time founder (two unicorns including WP Engine) with deep expe
 expertise: ["saas-growth-stalling", "logo-churn-reduction", "saas-pricing-strategy", "net-revenue-retention", "marketing-channel-saturation", "b2b-saas-metrics", "startup-scaling", "onboarding-optimization", "product-positioning"]
 companies: ["WP Engine", "Smart Bear"]
 panel: true
+topics: ["pricing-and-monetization"]
 ---
 
 # Jason Cohen

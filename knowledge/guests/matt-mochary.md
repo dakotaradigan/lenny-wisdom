@@ -4,6 +4,7 @@ description: CEO coaching, managing fear, firing with grace, talent density, rad
 expertise: ["ceo-coaching", "fear-management", "firing-with-grace", "talent-density", "radical-transparency", "small-teams"]
 companies: ["Mochary Method"]
 panel: true
+topics: ["leadership-and-management"]
 ---
 
 # Matt Mochary
