@@ -4,6 +4,7 @@ description: Continuous discovery, Opportunity Solution Trees, customer intervie
 expertise: ["continuous-discovery", "opportunity-solution-trees", "customer-interviewing", "product-trio", "assumption-testing", "product-discovery", "coaching"]
 companies: ["Product Talk"]
 panel: true
+topics: ["product-management-craft"]
 ---
 
 # Teresa Torres

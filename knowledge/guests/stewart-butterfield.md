@@ -4,6 +4,7 @@ description: Slack founding, utility curves, owner's delusion, taste and craft i
 expertise: ["B2B-product-craft", "utility-curves", "product-taste", "pivoting", "consumerized-B2B", "delight-in-enterprise", "Slack"]
 companies: ["Slack", "Flickr", "Salesforce"]
 panel: true
+topics: ["consumer-products"]
 ---
 
 # Stewart Butterfield

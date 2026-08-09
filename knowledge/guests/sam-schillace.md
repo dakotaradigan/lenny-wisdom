@@ -4,6 +4,7 @@ description: Google Docs creation, disruptive innovation, what-if vs why-not thi
 expertise: ["disruptive-innovation", "google-docs", "optimism", "what-if-thinking", "AI-transformation", "creative-experimentation"]
 companies: ["Microsoft", "Google", "Writely"]
 panel: true
+topics: ["engineering-and-technical"]
 ---
 
 # Sam Schillace

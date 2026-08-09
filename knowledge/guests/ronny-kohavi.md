@@ -4,6 +4,7 @@ description: A/B testing expert, experimentation at scale, OEC design, trustwort
 expertise: ["A/B-testing", "experimentation", "OEC-design", "data-driven-decisions", "experiment-culture", "institutional-learning"]
 companies: ["Airbnb", "Microsoft", "Amazon"]
 panel: false
+topics: ["analytics-and-metrics"]
 ---
 
 # Ronny Kohavi

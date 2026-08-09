@@ -4,6 +4,7 @@ description: Product management leadership, PM productivity frameworks, pre-mort
 expertise: ["product-management", "pm-productivity", "pre-mortems", "prioritization-frameworks", "execution-vs-strategy", "opportunity-cost", "high-agency", "team-alignment", "product-leadership"]
 companies: ["Stripe", "Twitter", "Google", "Yahoo"]
 panel: true
+topics: ["product-management-craft", "systems-thinking-and-mental-models"]
 ---
 
 # Shreyas Doshi

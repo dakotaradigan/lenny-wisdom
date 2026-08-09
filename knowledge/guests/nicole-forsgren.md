@@ -4,6 +4,7 @@ description: DORA metrics for engineering productivity, SPACE framework, develop
 expertise: ["dora-metrics", "space-framework", "developer-productivity", "devops", "developer-experience", "engineering-measurement"]
 companies: ["Microsoft Research", "Google", "GitHub", "DORA"]
 panel: true
+topics: ["analytics-and-metrics", "engineering-and-technical"]
 ---
 
 # Nicole Forsgren

@@ -4,6 +4,7 @@ description: Engineering leadership, systems thinking, staff engineer career pat
 expertise: ["engineering-leadership", "systems-thinking", "staff-engineering", "org-design", "engineering-management", "technical-strategy"]
 companies: ["Carta", "Stripe", "Uber", "Calm", "Digg"]
 panel: true
+topics: ["engineering-and-technical"]
 ---
 
 # Will Larson

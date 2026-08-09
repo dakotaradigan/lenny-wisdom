@@ -4,6 +4,7 @@ description: AI-native company builder specializing in agentic workflows, AI-wri
 expertise: ["AI-native-operations", "agentic-workflows", "AI-coding", "knowledge-work-AI", "media-company-building", "AI-productivity", "Claude-Code"]
 companies: ["Every"]
 panel: false
+topics: ["ai-and-machine-learning"]
 ---
 
 # Dan Shipper

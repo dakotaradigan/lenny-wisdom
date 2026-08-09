@@ -4,6 +4,7 @@ description: Legendary builder on product leadership, agents and AI, flexible id
 expertise: ["product-leadership", "ai-agents", "outcomes-based-pricing", "systems-thinking", "flexible-identity", "product-differentiation", "startup-distribution"]
 companies: ["Sierra", "Salesforce", "Facebook/Meta", "Google", "FriendFeed", "OpenAI (board)"]
 panel: true
+topics: ["b2b-products"]
 ---
 
 # Bret Taylor

@@ -4,6 +4,7 @@ description: Head of ChatGPT at OpenAI, led the product from hackathon prototype
 expertise: ["AI-product-management", "consumer-product", "shipping-velocity", "product-led-growth", "ChatGPT", "AI-strategy", "retention", "pricing-strategy", "first-principles-thinking", "team-building"]
 companies: ["OpenAI", "Dropbox", "Instacart"]
 panel: true
+topics: ["ai-and-machine-learning"]
 ---
 
 # Nick Turley

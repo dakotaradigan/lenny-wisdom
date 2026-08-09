@@ -4,6 +4,7 @@ description: Product strategy DHM framework, delight customers hard-to-copy marg
 expertise: ["product-strategy", "DHM-framework", "GEM-prioritization", "Netflix-strategy", "hard-to-copy-advantage", "A/B-testing", "product-leadership", "career-development", "personal-board-of-directors"]
 companies: ["Netflix", "Chegg", "Electronic Arts"]
 panel: true
+topics: ["product-strategy"]
 ---
 
 # Gibson Biddle

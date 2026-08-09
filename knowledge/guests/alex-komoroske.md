@@ -4,6 +4,7 @@ description: First-principles product thinker specializing in gardener mindset, 
 expertise: ["gardener-mindset", "organizational-kayfabe", "ai-native-products", "systems-thinking", "adjacent-possible", "slime-mold-organizations", "taste-and-differentiation", "strategic-reflection"]
 companies: ["Google", "Stripe"]
 panel: false
+topics: ["systems-thinking-and-mental-models"]
 ---
 
 # Alex Komoroske

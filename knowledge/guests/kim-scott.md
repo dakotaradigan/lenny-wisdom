@@ -4,6 +4,7 @@ description: Radical Candor framework, caring personally while challenging direc
 expertise: ["radical-candor", "feedback-culture", "management", "leadership-development", "coaching", "organizational-culture", "communication"]
 companies: ["Google", "Apple", "Dropbox", "Twitter", "Qualtrics"]
 panel: true
+topics: ["leadership-and-management"]
 ---
 
 # Kim Scott

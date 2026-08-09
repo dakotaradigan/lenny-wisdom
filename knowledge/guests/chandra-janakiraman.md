@@ -4,6 +4,7 @@ description: CPO at VRChat and former product leader at Meta, Headspace, Zynga, 
 expertise: ["product-strategy-playbook", "strategy-sprints", "strategic-pillars", "design-sprints-for-strategy", "strategy-alignment", "leadership-stakeholder-management", "product-vision", "strategy-rollout", "competitive-analysis"]
 companies: ["VRChat", "Meta", "Headspace", "Zynga", "Amazon"]
 panel: true
+topics: ["product-strategy"]
 ---
 
 # Chandra Janakiraman

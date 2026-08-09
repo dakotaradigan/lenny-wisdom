@@ -4,6 +4,7 @@ description: Group PM at Duolingo leading the retention team, deep expert on str
 expertise: ["retention", "streaks", "engagement-mechanics", "experimentation", "habit-formation", "copy-testing", "consumer-growth", "gamification"]
 companies: ["Duolingo"]
 panel: false
+topics: ["analytics-and-metrics", "growth-and-retention"]
 ---
 
 # Jackson Shuttleworth

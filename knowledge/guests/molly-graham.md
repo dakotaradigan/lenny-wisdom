@@ -4,6 +4,7 @@ description: Leadership coach and scaling expert known for "give away your Legos
 expertise: ["leadership-through-scale", "giving-away-legos", "career-growth-risk-taking", "team-diagnostics", "goal-setting-frameworks", "organizational-change", "founder-coaching", "hiring-and-firing", "managing-through-chaos"]
 companies: ["Google", "Facebook", "Meta", "Quip", "Salesforce", "Chan Zuckerberg Initiative", "Glue Club"]
 panel: true
+topics: ["leadership-and-management"]
 ---
 
 # Molly Graham

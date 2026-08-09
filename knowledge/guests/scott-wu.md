@@ -4,6 +4,7 @@ description: Devin AI software engineer, autonomous coding agents, future of sof
 expertise: ["AI-coding-agents", "autonomous-engineering", "reinforcement-learning", "Devin", "future-of-engineering", "agent-product-design"]
 companies: ["Cognition", "Lunchclub"]
 panel: false
+topics: ["ai-and-machine-learning"]
 ---
 
 # Scott Wu

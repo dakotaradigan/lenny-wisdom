@@ -4,6 +4,7 @@ description: Dropbox founder and CEO sharing lessons on competing with big tech,
 expertise: ["competing-with-big-tech", "strategic-inflection-points", "founder-resilience", "viral-growth-referral", "founder-mode", "distributed-remote-work", "startup-to-ipo", "product-strategy-pivots", "ceo-personal-growth"]
 companies: ["Dropbox", "Y Combinator"]
 panel: true
+topics: ["startups-and-founding"]
 ---
 
 # Drew Houston

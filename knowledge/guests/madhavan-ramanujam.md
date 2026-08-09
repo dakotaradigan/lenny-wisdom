@@ -4,6 +4,7 @@ description: Pricing strategy, willingness to pay conversations, monetization, p
 expertise: ["pricing-strategy", "willingness-to-pay", "monetization", "product-market-pricing-fit", "segmentation", "packaging-bundling", "behavioral-pricing", "B2B-SaaS-pricing", "marketplace-pricing"]
 companies: ["Simon-Kucher", "Uber", "Asana", "DoorDash", "LinkedIn"]
 panel: true
+topics: ["pricing-and-monetization"]
 ---
 
 # Madhavan Ramanujam

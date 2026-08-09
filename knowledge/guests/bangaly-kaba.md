@@ -4,6 +4,7 @@ description: Growth strategy, adjacent user theory, understand work, growth loop
 expertise: ["growth-strategy", "adjacent-user-theory", "understand-work", "growth-loops", "activation-optimization", "team-coaching", "career-impact", "flywheel-design", "product-led-growth", "managing-complex-change"]
 companies: ["YouTube", "Instagram", "Facebook", "Instacart", "Twitter"]
 panel: true
+topics: ["career-development", "growth-and-retention"]
 ---
 
 # Bangaly Kaba

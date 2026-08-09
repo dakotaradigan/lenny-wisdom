@@ -4,6 +4,7 @@ description: Behavioral design expert and author of Hooked and Indistractable, s
 expertise: ["habit-forming-products", "behavioral-design", "focus-and-productivity", "distraction-management", "hook-model", "time-boxing", "internal-triggers", "consumer-psychology", "engagement-loops"]
 companies: ["Author/Speaker", "Duolingo (advisor)", "Various startups"]
 panel: true
+topics: ["consumer-products"]
 ---
 
 # Nir Eyal

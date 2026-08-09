@@ -4,6 +4,7 @@ description: Decision scientist and former pro poker player specializing in deci
 expertise: ["decision-quality", "quitting-frameworks", "pre-mortem-design", "kill-criteria", "meeting-optimization", "feedback-loop-shortening", "thinking-in-bets", "adversarial-collaboration"]
 companies: ["First Round Capital"]
 panel: true
+topics: ["systems-thinking-and-mental-models"]
 ---
 
 # Annie Duke

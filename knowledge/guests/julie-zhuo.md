@@ -4,6 +4,7 @@ description: Design leadership, imposter syndrome, writing as career accelerator
 expertise: ["design-leadership", "management", "imposter-syndrome", "writing", "product-sense", "hiring-designers", "feedback", "product-analytics"]
 companies: ["Sundial", "Facebook/Meta"]
 panel: true
+topics: ["leadership-and-management"]
 ---
 
 # Julie Zhuo

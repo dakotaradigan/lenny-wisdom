@@ -4,6 +4,7 @@ description: Growth strategy expert on distribution platform cycles, new growth 
 expertise: ["growth-strategy", "distribution-platforms", "platform-cycle-theory", "growth-channels", "chatgpt-distribution", "startup-distribution", "product-channel-fit"]
 companies: ["Reforge", "HubSpot"]
 panel: false
+topics: ["growth-and-retention"]
 ---
 
 # Brian Balfour

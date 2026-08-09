@@ -4,6 +4,7 @@ description: Product management thought leader, author of Inspired and Empowered
 expertise: ["product-management", "empowered-teams", "product-discovery", "product-strategy", "product-leadership", "feature-teams", "product-culture", "coaching", "product-ops"]
 companies: ["Silicon Valley Product Group", "Netscape", "eBay", "HP"]
 panel: true
+topics: ["product-management-craft", "product-market-fit"]
 ---
 
 # Marty Cagan

@@ -4,6 +4,7 @@ description: Bottom-up go-to-market strategist specializing in community-led gro
 expertise: ["bottom-up-GTM", "community-led-growth", "product-led-growth", "early-stage-marketing", "brand-building", "IC-champion-model", "startup-GTM"]
 companies: ["Figma"]
 panel: false
+topics: ["go-to-market-and-sales"]
 ---
 
 # Claire Butler

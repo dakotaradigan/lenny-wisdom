@@ -4,6 +4,7 @@ description: Building products from 0 to billions at Facebook, Instagram, Uber, 
 expertise: ["zero-to-billions", "ai-product", "consumer-product", "growth-teams", "chatgpt-product", "product-types"]
 companies: ["OpenAI", "Instagram", "Uber", "Facebook", "Airtable", "Felicis"]
 panel: true
+topics: ["ai-and-machine-learning"]
 ---
 
 # Peter Deng

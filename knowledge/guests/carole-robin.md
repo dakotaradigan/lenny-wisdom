@@ -4,6 +4,7 @@ description: Stanford GSB professor on interpersonal dynamics, feedback, buildin
 expertise: ["interpersonal-dynamics", "feedback-techniques", "relationship-building", "emotional-intelligence", "leadership-communication", "conflict-resolution", "psychological-safety"]
 companies: ["Stanford GSB", "Leaders in Tech"]
 panel: false
+topics: ["career-development"]
 ---
 
 # Carole Robin

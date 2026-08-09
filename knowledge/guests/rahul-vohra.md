@@ -4,6 +4,7 @@ description: Superhuman PMF engine, product-market fit measurement, game design 
 expertise: ["product-market-fit", "game-design", "attention-to-detail", "pricing-strategy", "CEO-productivity", "word-of-mouth-growth", "AI-product-building", "email-productivity", "org-design"]
 companies: ["Superhuman", "Rapportive", "LinkedIn"]
 panel: true
+topics: ["product-market-fit"]
 ---
 
 # Rahul Vohra

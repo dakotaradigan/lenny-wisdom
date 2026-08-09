@@ -4,6 +4,7 @@ description: Building products in India, second-order thinking, trust deficit in
 expertise: ["India-market", "second-order-thinking", "trust-building", "fintech", "consumer-product", "startup-philosophy", "emerging-markets", "pricing"]
 companies: ["CRED", "Freecharge"]
 panel: true
+topics: ["consumer-products"]
 ---
 
 # Kunal Shah

@@ -4,6 +4,7 @@ description: SaaS monetization and pricing strategy, PLG pricing, value metrics,
 expertise: ["pricing-strategy", "monetization", "plg", "freemium", "value-metrics", "saas-growth", "modern-growth-stack"]
 companies: ["Menlo Ventures", "Evernote", "Invoice2go"]
 panel: false
+topics: ["pricing-and-monetization"]
 ---
 
 # Naomi Ionita

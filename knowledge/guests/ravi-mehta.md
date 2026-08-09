@@ -4,6 +4,7 @@ description: PM competency model, product leadership career development, product
 expertise: ["pm-career-development", "pm-competencies", "product-leadership", "hiring-PMs", "product-sense", "career-frameworks"]
 companies: ["Tinder", "Facebook", "Tripadvisor", "Outpace"]
 panel: false
+topics: ["product-management-craft"]
 ---
 
 # Ravi Mehta

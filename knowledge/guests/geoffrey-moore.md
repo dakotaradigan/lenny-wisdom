@@ -4,6 +4,7 @@ description: Author of Crossing the Chasm, technology adoption lifecycle, beachh
 expertise: ["crossing-the-chasm", "go-to-market", "beachhead-strategy", "technology-adoption", "bowling-pin-expansion", "market-segmentation", "B2B-strategy"]
 companies: ["Consultant/Author"]
 panel: true
+topics: ["product-strategy"]
 ---
 
 # Geoffrey Moore

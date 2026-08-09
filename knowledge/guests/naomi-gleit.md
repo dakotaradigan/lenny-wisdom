@@ -4,6 +4,7 @@ description: Meta's Head of Product and employee #29 known for extreme clarity, 
 expertise: ["extreme-clarity-frameworks", "canonical-documents", "pm-as-conductor", "facebook-growth-team", "activation-metrics", "cross-functional-leadership", "meeting-management", "user-onboarding-tactics", "growth-accounting", "simplification"]
 companies: ["Meta", "Facebook"]
 panel: true
+topics: ["product-management-craft"]
 ---
 
 # Naomi Gleit

@@ -4,6 +4,7 @@ description: Viral consumer app playbook, latent demand discovery, teen-focused 
 expertise: ["viral-growth", "consumer-apps", "teen-products", "app-store-strategy", "latent-demand", "mobile-design", "seeding-strategy"]
 companies: ["TBH", "Gas", "Facebook"]
 panel: true
+topics: ["consumer-products"]
 ---
 
 # Nikita Bier

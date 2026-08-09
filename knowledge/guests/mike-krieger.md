@@ -4,6 +4,7 @@ description: AI product strategy at Anthropic, co-founded Instagram, product-res
 expertise: ["ai-product-strategy", "product-research-integration", "instagram-founding", "developer-tools", "anthropic-product", "ai-bottlenecks"]
 companies: ["Anthropic", "Instagram", "Artifact"]
 panel: true
+topics: ["consumer-products"]
 ---
 
 # Mike Krieger

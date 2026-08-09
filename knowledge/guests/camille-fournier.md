@@ -4,6 +4,7 @@ description: Engineering leadership expert on PM-engineer dynamics, the manager'
 expertise: ["engineering-management", "pm-engineer-relationship", "platform-engineering", "manager-path", "engineering-career-development", "technical-leadership", "rewrite-avoidance"]
 companies: ["Rent the Runway", "Goldman Sachs", "JP Morgan Chase", "Two Sigma"]
 panel: false
+topics: ["leadership-and-management"]
 ---
 
 # Camille Fournier
