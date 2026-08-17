@@ -33,19 +33,21 @@ A [Claude Code](https://claude.com/claude-code) plugin that acts as a Socratic t
 
 ## Install
 
-```bash
-# Add to your Claude Code plugins
-claude plugins add /path/to/lenny-wisdom
+Inside Claude Code:
+
+```
+/plugin marketplace add dakotaradigan/lennys-guest-graph
+/plugin install lenny-wisdom@lennys-guest-graph
 ```
 
-Or clone and add:
+Or try it from a local clone without installing:
 
 ```bash
 git clone https://github.com/dakotaradigan/lennys-guest-graph.git
-claude plugins add ./lennys-guest-graph
+claude --plugin-dir ./lennys-guest-graph
 ```
 
-> The plugin itself is named `lenny-wisdom` (your profile lives at `~/.claude/lenny-wisdom.local.md`), independent of the repository name.
+> The plugin itself is named `lenny-wisdom` (your profile lives at `~/.claude/lenny-wisdom.local.md`), independent of the repository name. Installed commands are namespaced, e.g. `/lenny-wisdom:lenny-wwld`.
 
 ## Quick start
 
