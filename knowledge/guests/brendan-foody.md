@@ -4,6 +4,7 @@ description: CEO of Mercor on AI evals as the new product requirements, expert l
 expertise: ["ai-evals", "ai-training-data", "expert-labor-marketplace", "reinforcement-learning", "ai-workforce-impact", "hypergrowth-company-building", "talent-assessment"]
 companies: ["Mercor"]
 panel: false
+topics: ["ai-and-machine-learning", "consumer-products"]
 ---
 
 # Brendan Foody

@@ -4,6 +4,7 @@ description: Low-cost growth channels, SEO fundamentals, community-driven growth
 expertise: ["low-cost-growth", "seo-fundamentals", "community-growth", "b2b-saas-growth", "reddit-marketing", "content-marketing"]
 companies: ["Deel"]
 panel: false
+topics: ["go-to-market-and-sales", "growth-and-retention"]
 ---
 
 # Meltem Kuran

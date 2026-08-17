@@ -4,6 +4,7 @@ description: Storytelling craft, five-second moment technique, business storytel
 expertise: ["storytelling", "five-second-moments", "business-storytelling", "presentation-skills", "narrative-structure", "vulnerability"]
 companies: []
 panel: false
+topics: ["career-development", "product-management-craft"]
 ---
 
 # Matthew Dicks

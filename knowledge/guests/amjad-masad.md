@@ -4,6 +4,7 @@ description: CEO of Replit specializing in AI-powered software development, demo
 expertise: ["ai-software-development", "democratizing-coding", "ai-product-building", "replit-agent", "no-code-platforms", "developer-tools", "vibe-coding", "software-democratization"]
 companies: ["Replit"]
 panel: false
+topics: ["ai-and-machine-learning", "engineering-and-technical"]
 ---
 
 # Amjad Masad

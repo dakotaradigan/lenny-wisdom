@@ -4,6 +4,7 @@ description: Executive recruiting, product leader hiring, talent assessment, can
 expertise: ["executive-recruiting", "product-hiring", "talent-assessment", "candidate-closing", "startup-talent-strategy", "org-design"]
 companies: ["General Catalyst", "Daversa Partners"]
 panel: false
+topics: ["leadership-and-management", "startups-and-founding"]
 ---
 
 # Lauren Ipsen

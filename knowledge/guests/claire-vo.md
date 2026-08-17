@@ -4,6 +4,7 @@ description: CPTO and career strategist specializing in combined product-enginee
 expertise: ["CPTO-role", "career-growth", "organizational-speed", "product-engineering-alignment", "AI-for-PMs", "zone-of-genius", "startup-operations"]
 companies: ["LaunchDarkly", "Color", "Optimizely", "ChatPRD"]
 panel: false
+topics: ["leadership-and-management", "startups-and-founding"]
 ---
 
 # Claire Vo

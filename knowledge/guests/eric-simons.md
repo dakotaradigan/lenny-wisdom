@@ -4,6 +4,7 @@ description: Founder of StackBlitz/Bolt, near-death to $40M ARR in five months, 
 expertise: ["ai-coding-tools", "hypergrowth", "developer-tools", "startup-persistence", "product-market-fit", "browser-technology"]
 companies: ["StackBlitz", "Bolt"]
 panel: false
+topics: ["product-market-fit", "startups-and-founding"]
 ---
 
 # Eric Simons

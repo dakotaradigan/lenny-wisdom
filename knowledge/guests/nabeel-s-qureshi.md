@@ -4,6 +4,7 @@ description: Palantir's forward-deployed engineer model, founder factory culture
 expertise: ["forward-deployed-engineers", "palantir-culture", "services-to-product", "hiring", "founder-training", "data-platforms", "customer-immersion"]
 companies: ["Palantir", "GoCardless"]
 panel: false
+topics: ["leadership-and-management", "startups-and-founding"]
 ---
 
 # Nabeel S. Qureshi

@@ -1,0 +1,13 @@
+{
+  "name": "lennys-guest-graph",
+  "owner": {
+    "name": "Dakota Radigan"
+  },
+  "plugins": [
+    {
+      "name": "lenny-wisdom",
+      "source": "./",
+      "description": "Socratic thought partner for product managers, powered by a knowledge graph of Lenny Rachitsky's podcast guests, topics, and frameworks"
+    }
+  ]
+}

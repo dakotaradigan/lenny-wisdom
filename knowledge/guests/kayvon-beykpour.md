@@ -4,6 +4,7 @@ description: Transforming stagnant product culture, shipping cadence, acqui-hire
 expertise: ["product-culture-change", "consumer-product", "live-video", "social-media", "shipping-velocity", "acqui-hires", "platform-strategy", "creator-economy"]
 companies: ["Twitter/X", "Periscope"]
 panel: false
+topics: ["consumer-products", "product-management-craft"]
 ---
 
 # Kayvon Beykpour

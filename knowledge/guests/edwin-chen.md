@@ -4,6 +4,7 @@ description: AI data quality pioneer specializing in frontier AI training data, 
 expertise: ["AI-training-data", "data-quality", "bootstrapped-scaling", "AI-alignment", "RLHF", "model-evaluation", "lean-company-building"]
 companies: ["Surge AI"]
 panel: false
+topics: ["ai-and-machine-learning", "product-strategy"]
 ---
 
 # Edwin Chen

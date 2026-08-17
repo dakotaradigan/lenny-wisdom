@@ -4,6 +4,7 @@ description: AI coding tools, startup pivots, developer experience, enterprise A
 expertise: ["ai-coding-tools", "startup-pivots", "developer-experience", "enterprise-ai", "infrastructure-to-application", "ide-development"]
 companies: ["Windsurf", "Codeium"]
 panel: false
+topics: ["engineering-and-technical", "startups-and-founding"]
 ---
 
 # Varun Mohan

@@ -4,6 +4,7 @@ description: Word-of-mouth growth system, NPS as growth driver, product pillars 
 expertise: ["word-of-mouth-growth", "nps-optimization", "product-pillars", "recommendation-engine", "fintech-growth", "cross-border-payments"]
 companies: ["Wise"]
 panel: false
+topics: ["growth-and-retention", "product-strategy"]
 ---
 
 # Nilan Peiris

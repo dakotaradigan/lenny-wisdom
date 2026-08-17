@@ -4,6 +4,7 @@ description: Open source philosophy, distributed work, WordPress ecosystem, acqu
 expertise: ["open-source", "distributed-work", "platform-ecosystems", "acquisition-strategy", "ai-open-source", "long-term-building"]
 companies: ["Automattic", "WordPress"]
 panel: false
+topics: ["growth-and-retention", "product-strategy"]
 ---
 
 # Matt Mullenweg

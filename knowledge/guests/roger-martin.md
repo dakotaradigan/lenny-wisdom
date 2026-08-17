@@ -4,6 +4,7 @@ description: Strategy choice cascade, playing to win, where to play how to win, 
 expertise: ["strategy", "playing-to-win", "strategy-choice-cascade", "competitive-advantage", "differentiation", "capabilities-building"]
 companies: ["Rotman School of Management", "Procter & Gamble", "Lego", "Monitor Company"]
 panel: false
+topics: ["leadership-and-management", "product-strategy"]
 ---
 
 # Roger Martin

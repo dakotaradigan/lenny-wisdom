@@ -4,6 +4,7 @@ description: Customer-led growth for B2B SaaS, Forget The Funnel framework, jobs
 expertise: ["customer-led-growth", "B2B-saas-marketing", "customer-research", "jobs-to-be-done", "retention-strategy", "customer-journey"]
 companies: ["Forget The Funnel", "Unbounce"]
 panel: false
+topics: ["b2b-products", "growth-and-retention"]
 ---
 
 # Georgiana Laudi (Gia)

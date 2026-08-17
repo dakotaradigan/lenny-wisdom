@@ -26,6 +26,60 @@ OUT = KNOWLEDGE / "graph.json"
 # Companies must have at least this many guests to become a node.
 COMPANY_MIN_GUESTS = 2
 
+# Keyword → topic mapping used ONLY for guests with no curated edges, so
+# every guest connects to the graph. Matched against expertise tags and the
+# frontmatter description; a guest gets at most MAX_INFERRED_TOPICS edges.
+MAX_INFERRED_TOPICS = 2
+TOPIC_KEYWORDS = {
+    "growth-and-retention": [
+        "growth", "retention", "onboarding", "activation", "virality",
+        "referral", "engagement", "churn", "acquisition", "product-led",
+        "plg", "freemium", "growth-loops"],
+    "product-strategy": [
+        "strategy", "strategic", "positioning", "differentiation", "vision",
+        "moats", "category-creation", "competitive"],
+    "leadership-and-management": [
+        "leadership", "management", "managing", "hiring", "culture",
+        "org-design", "coaching", "feedback", "executive", "cpo", "teams",
+        "team-building", "performance"],
+    "product-management-craft": [
+        "product-management", "prioritization", "product-discovery",
+        "product-sense", "user-research", "prds", "stakeholder",
+        "product-reviews", "shipping", "craft", "roadmap"],
+    "ai-and-machine-learning": [
+        "ai", "ml", "machine-learning", "llm", "llms", "agents", "evals",
+        "prompt", "ai-native", "ai-products", "coding-agent", "vibe-coding"],
+    "startups-and-founding": [
+        "startup", "startups", "founder", "founders", "founding",
+        "fundraising", "bootstrapping", "zero-to-one", "pivot",
+        "entrepreneurship", "venture", "vc", "early-stage"],
+    "career-development": [
+        "career", "promotion", "negotiation", "personal-brand",
+        "job-search", "interviewing", "communication", "storytelling",
+        "influence", "public-speaking", "writing"],
+    "go-to-market-and-sales": [
+        "go-to-market", "gtm", "sales", "marketing", "seo", "launch",
+        "distribution", "brand", "branding", "content-marketing", "pr",
+        "channels", "demand"],
+    "pricing-and-monetization": [
+        "pricing", "monetization", "willingness-to-pay", "subscription",
+        "packaging", "bundling"],
+    "analytics-and-metrics": [
+        "metrics", "analytics", "okrs", "experimentation", "a-b-testing",
+        "data-driven", "north-star", "dashboards", "measurement"],
+    "engineering-and-technical": [
+        "engineering", "technical", "developer", "developers", "api",
+        "infrastructure", "devops", "cto", "code", "software"],
+    "b2b-products": ["b2b", "enterprise", "saas"],
+    "consumer-products": [
+        "consumer", "social", "marketplace", "marketplaces", "habit",
+        "network-effects", "community", "ux", "design", "gaming", "mobile"],
+    "product-market-fit": ["pmf", "product-market-fit"],
+    "systems-thinking-and-mental-models": [
+        "systems-thinking", "mental-models", "decision-making", "decisions",
+        "first-principles", "cognitive", "psychology", "behavioral"],
+}
+
 
 def parse_frontmatter(text):
     """Parse simple single-line YAML frontmatter (scalars and inline lists)."""
@@ -70,6 +124,7 @@ def load_guests():
             "slug": slug,
             "name": fm.get("name", slug.replace("-", " ").title()),
             "description": fm.get("description", ""),
+            "expertise": fm.get("expertise", []),
             "companies": [norm_company(c) for c in fm.get("companies", [])],
             "panel": fm.get("panel", "false") in ("true", True),
         }
@@ -219,6 +274,39 @@ def main():
         for gslug in source_guests(fw["source"], guest_names):
             add_edge(f"framework:{fw['slug']}", f"guest:{gslug}", "framework-guest")
 
+    # Inferred topic edges for guests the curated edges leave isolated —
+    # matched from expertise tags + description so every guest connects.
+    def guest_tokens(g):
+        text = " ".join(g["expertise"]) + " " + g["description"]
+        return set(re.split(r"[^a-z0-9-]+", text.lower())) | \
+               set(re.split(r"[^a-z0-9]+", text.lower()))
+
+    linked = {e["source"] for e in edges} | {e["target"] for e in edges}
+    shared_companies = {c for c, gs in
+                        ((c, [s for s, g in guests.items() if c in g["companies"]])
+                         for c in {c for g in guests.values() for c in g["companies"]})
+                        if len(gs) >= COMPANY_MIN_GUESTS}
+    inferred_count = 0
+    for slug, g in guests.items():
+        gid = f"guest:{slug}"
+        if gid in linked or any(c in shared_companies for c in g["companies"]):
+            continue
+        tokens = guest_tokens(g)
+        scores = []
+        for topic_slug, keywords in TOPIC_KEYWORDS.items():
+            if topic_slug not in topics:
+                continue
+            hits = sum(1 for k in keywords if k in tokens)
+            if hits:
+                scores.append((hits, topic_slug))
+        scores.sort(reverse=True)
+        for _, topic_slug in scores[:MAX_INFERRED_TOPICS]:
+            add_edge(f"topic:{topic_slug}", gid, "topic-guest-inferred")
+            guest_topics.setdefault(slug, set()).add(topic_slug)
+            inferred_count += 1
+        if not scores:
+            warnings.append(f"guest {slug}: no expertise keywords matched a topic")
+
     # Guest -> company edges (companies with enough guests to be interesting).
     company_guests = {}
     for slug, g in guests.items():
@@ -257,6 +345,7 @@ def main():
 
     print(f"graph.json: {len(nodes)} nodes, {len(edges)} edges "
           f"({graph['meta']['counts']})")
+    print(f"inferred topic edges for otherwise-isolated guests: {inferred_count}")
     print(f"guest frontmatter backlinks written: {updated}")
     if warnings:
         print(f"\n{len(warnings)} warnings:", file=sys.stderr)

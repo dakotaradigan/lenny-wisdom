@@ -4,6 +4,7 @@ description: Founder-to-CEO transition, startup execution, CEO failure modes, Ma
 expertise: ["founder-coaching", "CEO-development", "startup-execution", "M&A-strategy", "leadership-development", "startup-planning", "organizational-rhythm"]
 companies: ["Enjoy The Work"]
 panel: false
+topics: ["leadership-and-management", "startups-and-founding"]
 ---
 
 # Jonathan Lowenhar

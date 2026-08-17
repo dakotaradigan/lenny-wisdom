@@ -4,6 +4,7 @@ description: Category design strategist specializing in creating new market cate
 expertise: ["category-design", "market-creation", "languaging", "radical-differentiation", "positioning", "backcasting", "startup-strategy", "brand-building"]
 companies: ["Category Pirates", "Play Bigger"]
 panel: false
+topics: ["product-strategy", "startups-and-founding"]
 ---
 
 # Christopher Lochhead

@@ -4,6 +4,7 @@ description: Public speaking mastery, overcoming speaking anxiety, flow-state co
 expertise: ["public-speaking", "communication", "flow-state", "presentation-skills", "speaking-anxiety", "meta-skills"]
 companies: ["Ultraspeaking"]
 panel: false
+topics: ["career-development"]
 ---
 
 # Tristan de Montebello

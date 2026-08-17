@@ -4,6 +4,7 @@ description: Product management in newsrooms, mindfulness in PM, content managem
 expertise: ["news-product", "content-management", "mindfulness", "stakeholder-management", "platform-migration", "user-onboarding"]
 companies: ["CNN"]
 panel: false
+topics: ["leadership-and-management", "product-management-craft"]
 ---
 
 # Upasna Gautam

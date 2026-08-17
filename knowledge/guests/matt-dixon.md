@@ -4,6 +4,7 @@ description: Sales research, overcoming customer indecision, challenger selling,
 expertise: ["sales-research", "customer-indecision", "challenger-sale", "jolt-method", "b2b-sales", "deal-closing"]
 companies: ["CEB/Gartner"]
 panel: false
+topics: ["b2b-products", "go-to-market-and-sales"]
 ---
 
 # Matt Dixon

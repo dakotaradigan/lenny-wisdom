@@ -4,6 +4,7 @@ description: Founder-led sales for B2B startups, modern sales practices, sales a
 expertise: ["founder-led-sales", "b2b-sales", "sales-process", "sales-management", "startup-sales", "modern-sales"]
 companies: ["Atrium", "TalentBin"]
 panel: false
+topics: ["leadership-and-management", "startups-and-founding"]
 ---
 
 # Pete Kazanjy

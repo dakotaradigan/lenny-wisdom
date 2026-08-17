@@ -4,6 +4,7 @@ description: Community Notes product design, bridging-based algorithm for misinf
 expertise: ["community-notes", "content-moderation", "bridging-algorithms", "misinformation", "open-source", "product-design", "ML-systems", "platform-trust"]
 companies: ["X/Twitter"]
 panel: false
+topics: ["ai-and-machine-learning", "consumer-products"]
 ---
 
 # Keith Coleman & Jay Baxter

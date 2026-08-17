@@ -4,6 +4,7 @@ description: The pathless path, redefining work and success, default path escape
 expertise: ["career-design", "pathless-path", "work-life-philosophy", "self-publishing", "creator-economy", "sabbaticals"]
 companies: []
 panel: false
+topics: ["career-development", "consumer-products"]
 ---
 
 # Paul Millerd

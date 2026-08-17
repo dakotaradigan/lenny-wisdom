@@ -4,6 +4,7 @@ description: Executive coach and co-founder of Reboot, known as "the CEO whisper
 expertise: ["executive-coaching", "radical-self-inquiry", "leadership-resilience", "founder-mental-health", "complicity-question", "burnout-prevention"]
 companies: ["Reboot", "Flatiron Partners"]
 panel: false
+topics: ["leadership-and-management", "startups-and-founding"]
 ---
 
 # Jerry Colonna

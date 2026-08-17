@@ -4,6 +4,7 @@ description: Author of Dynamic Reteaming, the five patterns of team change, tran
 expertise: ["reteaming", "organizational-change", "reorgs", "team-dynamics", "engineering-management", "change-management", "agile-teams"]
 companies: ["Procore", "Author/Consultant"]
 panel: false
+topics: ["engineering-and-technical", "leadership-and-management"]
 ---
 
 # Heidi Helfand

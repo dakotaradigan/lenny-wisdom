@@ -4,6 +4,7 @@ description: M&A strategy for startups, competition philosophy, VC-to-PM transit
 expertise: ["M&A-strategy", "competition-strategy", "open-source", "data-tools", "investing", "product-market-fit", "B2B-product", "distribution"]
 companies: ["dbt Labs", "NEA"]
 panel: false
+topics: ["product-strategy", "startups-and-founding"]
 ---
 
 # Julia Schottenstein
