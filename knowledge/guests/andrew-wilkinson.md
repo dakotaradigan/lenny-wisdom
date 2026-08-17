@@ -4,6 +4,7 @@ description: Serial entrepreneur and investor specializing in startup idea selec
 expertise: ["startup-idea-selection", "boring-business-strategy", "bootstrapping-vs-vc", "business-model-evaluation", "holding-company-strategy", "ai-business-automation", "lazy-leadership", "unfair-advantage"]
 companies: ["Tiny", "Metalab", "Dribbble", "AeroPress", "Letterboxd"]
 panel: false
+topics: ["product-strategy", "startups-and-founding"]
 ---
 
 # Andrew Wilkinson

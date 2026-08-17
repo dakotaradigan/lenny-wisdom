@@ -4,6 +4,7 @@ description: Co-founder of Mind the Product and CEO of ProdPad, inventor of the 
 expertise: ["roadmapping", "now-next-later", "product-community", "public-speaking", "PM-tools", "conference-building"]
 companies: ["ProdPad", "Mind the Product"]
 panel: false
+topics: ["product-strategy", "startups-and-founding"]
 ---
 
 # Janna Bastow

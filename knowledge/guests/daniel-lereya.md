@@ -4,6 +4,7 @@ description: Product scaling leader specializing in impact-driven development, r
 expertise: ["impact-driven-development", "radical-transparency", "ambitious-goal-setting", "product-org-transformation", "platform-building", "daily-metrics-culture"]
 companies: ["monday.com"]
 panel: false
+topics: ["analytics-and-metrics", "leadership-and-management"]
 ---
 
 # Daniel Lereya

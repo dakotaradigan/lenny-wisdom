@@ -4,6 +4,7 @@ description: Job search strategy using product thinking, Job Search Councils, ca
 expertise: ["job-search-strategy", "candidate-market-fit", "job-search-councils", "negotiation", "career-transitions", "community-building"]
 companies: ["Creative Good"]
 panel: false
+topics: ["career-development", "product-strategy"]
 ---
 
 # Phyl Terry

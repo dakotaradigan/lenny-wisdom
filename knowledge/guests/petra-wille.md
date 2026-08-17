@@ -4,6 +4,7 @@ description: Product leadership coaching, developing product managers, the eight
 expertise: ["product-leadership-coaching", "pm-development", "coaching-frameworks", "product-competencies", "storytelling", "people-management"]
 companies: []
 panel: false
+topics: ["career-development", "leadership-and-management"]
 ---
 
 # Petra Wille

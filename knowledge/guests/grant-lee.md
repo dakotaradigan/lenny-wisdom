@@ -4,6 +4,7 @@ description: CEO of Gamma, AI presentation tool from $0 to $100M ARR, influencer
 expertise: ["ai-products", "influencer-marketing", "profitable-growth", "product-market-fit", "pricing-strategy", "presentation-tools", "micro-influencers"]
 companies: ["Gamma"]
 panel: true
+topics: ["ai-and-machine-learning", "startups-and-founding"]
 ---
 
 # Grant Lee

@@ -5,7 +5,7 @@
    "topics": 15,
    "frameworks": 56,
    "companies": 91,
-   "edges": 700
+   "edges": 798
   }
  },
  "nodes": [
@@ -4140,6 +4140,496 @@
    "source": "framework:timeboxing-over-to-do-lists",
    "target": "guest:nir-eyal",
    "kind": "framework-guest"
+  },
+  {
+   "source": "topic:engineering-and-technical",
+   "target": "guest:amjad-masad",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:ai-and-machine-learning",
+   "target": "guest:amjad-masad",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:startups-and-founding",
+   "target": "guest:andrew-wilkinson",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:product-strategy",
+   "target": "guest:andrew-wilkinson",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:growth-and-retention",
+   "target": "guest:anuj-rathi",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:product-strategy",
+   "target": "guest:anuj-rathi",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:growth-and-retention",
+   "target": "guest:ben-williams",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:go-to-market-and-sales",
+   "target": "guest:ben-williams",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:consumer-products",
+   "target": "guest:brendan-foody",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:ai-and-machine-learning",
+   "target": "guest:brendan-foody",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:leadership-and-management",
+   "target": "guest:christine-itwaru",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:b2b-products",
+   "target": "guest:christine-itwaru",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:product-strategy",
+   "target": "guest:christopher-lochhead",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:startups-and-founding",
+   "target": "guest:christopher-lochhead",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:leadership-and-management",
+   "target": "guest:claire-vo",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:startups-and-founding",
+   "target": "guest:claire-vo",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:leadership-and-management",
+   "target": "guest:daniel-lereya",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:analytics-and-metrics",
+   "target": "guest:daniel-lereya",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:product-strategy",
+   "target": "guest:david-placek",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:go-to-market-and-sales",
+   "target": "guest:david-placek",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:leadership-and-management",
+   "target": "guest:dmitry-zlokazov",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:startups-and-founding",
+   "target": "guest:dmitry-zlokazov",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:leadership-and-management",
+   "target": "guest:dr-becky-kennedy",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:systems-thinking-and-mental-models",
+   "target": "guest:dr-becky-kennedy",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:product-strategy",
+   "target": "guest:edwin-chen",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:ai-and-machine-learning",
+   "target": "guest:edwin-chen",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:startups-and-founding",
+   "target": "guest:eric-simons",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:product-market-fit",
+   "target": "guest:eric-simons",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:ai-and-machine-learning",
+   "target": "guest:ethan-smith",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:go-to-market-and-sales",
+   "target": "guest:ethan-smith",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:startups-and-founding",
+   "target": "guest:garrett-lord",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:consumer-products",
+   "target": "guest:garrett-lord",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:growth-and-retention",
+   "target": "guest:gia-laudi",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:b2b-products",
+   "target": "guest:gia-laudi",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:ai-and-machine-learning",
+   "target": "guest:grant-lee",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:startups-and-founding",
+   "target": "guest:grant-lee",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:ai-and-machine-learning",
+   "target": "guest:hamel-husain--shreya-shankar",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:engineering-and-technical",
+   "target": "guest:hamel-husain--shreya-shankar",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:leadership-and-management",
+   "target": "guest:heidi-helfand",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:engineering-and-technical",
+   "target": "guest:heidi-helfand",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:leadership-and-management",
+   "target": "guest:interview-q-compilation",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:career-development",
+   "target": "guest:interview-q-compilation",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:startups-and-founding",
+   "target": "guest:janna-bastow",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:product-strategy",
+   "target": "guest:janna-bastow",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:ai-and-machine-learning",
+   "target": "guest:jason-droege",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:startups-and-founding",
+   "target": "guest:jason-droege",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:startups-and-founding",
+   "target": "guest:jason-feifer",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:product-strategy",
+   "target": "guest:jason-feifer",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:startups-and-founding",
+   "target": "guest:jason-fried",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:leadership-and-management",
+   "target": "guest:jason-fried",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:leadership-and-management",
+   "target": "guest:jerry-colonna",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:startups-and-founding",
+   "target": "guest:jerry-colonna",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:product-strategy",
+   "target": "guest:jessica-hische",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:product-management-craft",
+   "target": "guest:jessica-hische",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:startups-and-founding",
+   "target": "guest:jonathan-lowenhar",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:leadership-and-management",
+   "target": "guest:jonathan-lowenhar",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:leadership-and-management",
+   "target": "guest:jonny-miller",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:startups-and-founding",
+   "target": "guest:julia-schottenstein",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:product-strategy",
+   "target": "guest:julia-schottenstein",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:product-management-craft",
+   "target": "guest:kayvon-beykpour",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:consumer-products",
+   "target": "guest:kayvon-beykpour",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:consumer-products",
+   "target": "guest:keith-coleman--jay-baxter",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:ai-and-machine-learning",
+   "target": "guest:keith-coleman--jay-baxter",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:leadership-and-management",
+   "target": "guest:lauren-ipsen",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:startups-and-founding",
+   "target": "guest:lauren-ipsen",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:go-to-market-and-sales",
+   "target": "guest:matt-dixon",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:b2b-products",
+   "target": "guest:matt-dixon",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:product-strategy",
+   "target": "guest:matt-mullenweg",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:growth-and-retention",
+   "target": "guest:matt-mullenweg",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:career-development",
+   "target": "guest:matthew-dicks",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:product-management-craft",
+   "target": "guest:matthew-dicks",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:product-strategy",
+   "target": "guest:melissa-perri",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:b2b-products",
+   "target": "guest:melissa-perri",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:go-to-market-and-sales",
+   "target": "guest:meltem-kuran",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:growth-and-retention",
+   "target": "guest:meltem-kuran",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:leadership-and-management",
+   "target": "guest:nabeel-s-qureshi",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:startups-and-founding",
+   "target": "guest:nabeel-s-qureshi",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:career-development",
+   "target": "guest:nancy-duarte",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:consumer-products",
+   "target": "guest:nancy-duarte",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:product-strategy",
+   "target": "guest:nilan-peiris",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:growth-and-retention",
+   "target": "guest:nilan-peiris",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:consumer-products",
+   "target": "guest:paul-millerd",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:career-development",
+   "target": "guest:paul-millerd",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:startups-and-founding",
+   "target": "guest:pete-kazanjy",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:leadership-and-management",
+   "target": "guest:pete-kazanjy",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:leadership-and-management",
+   "target": "guest:petra-wille",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:career-development",
+   "target": "guest:petra-wille",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:career-development",
+   "target": "guest:phyl-terry",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:product-strategy",
+   "target": "guest:phyl-terry",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:product-strategy",
+   "target": "guest:roger-martin",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:leadership-and-management",
+   "target": "guest:roger-martin",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:startups-and-founding",
+   "target": "guest:ryan-hoover",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:consumer-products",
+   "target": "guest:ryan-hoover",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:career-development",
+   "target": "guest:tristan-de-montebello",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:product-management-craft",
+   "target": "guest:upasna-gautam",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:leadership-and-management",
+   "target": "guest:upasna-gautam",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:startups-and-founding",
+   "target": "guest:varun-mohan",
+   "kind": "topic-guest-inferred"
+  },
+  {
+   "source": "topic:engineering-and-technical",
+   "target": "guest:varun-mohan",
+   "kind": "topic-guest-inferred"
   },
   {
    "source": "company:adobe",

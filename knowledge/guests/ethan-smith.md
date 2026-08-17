@@ -4,6 +4,7 @@ description: SEO and AEO expert, Answer Engine Optimization for ChatGPT and AI s
 expertise: ["seo", "aeo", "answer-engine-optimization", "llm-visibility", "content-strategy", "reddit-optimization", "youtube-seo", "go-to-market"]
 companies: ["Graphite"]
 panel: false
+topics: ["ai-and-machine-learning", "go-to-market-and-sales"]
 ---
 
 # Ethan Smith

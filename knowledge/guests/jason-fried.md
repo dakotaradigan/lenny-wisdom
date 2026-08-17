@@ -4,6 +4,7 @@ description: Co-founder and CEO of 37signals (Basecamp, HEY), contrarian advocat
 expertise: ["bootstrapping", "small-teams", "profitability", "product-simplicity", "remote-work", "contrarian-business", "SaaS"]
 companies: ["37signals", "Basecamp", "HEY"]
 panel: true
+topics: ["leadership-and-management", "startups-and-founding"]
 ---
 
 # Jason Fried

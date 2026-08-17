@@ -4,6 +4,7 @@ description: Nervous system mastery, burnout prevention, breathwork, interocepti
 expertise: ["nervous-system-regulation", "burnout-prevention", "breathwork", "interoception", "emotional-debt", "stress-management", "somatic-practices", "resilience"]
 companies: ["Nervous System Mastery"]
 panel: false
+topics: ["leadership-and-management"]
 ---
 
 # Jonny Miller

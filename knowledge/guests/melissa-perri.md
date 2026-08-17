@@ -4,6 +4,7 @@ description: Product strategy, escaping the build trap, product owner vs. produc
 expertise: ["product-strategy", "build-trap", "product-owner-role", "agile-transformation", "product-operations", "enterprise-pm"]
 companies: ["Product Institute"]
 panel: false
+topics: ["b2b-products", "product-strategy"]
 ---
 
 # Melissa Perri

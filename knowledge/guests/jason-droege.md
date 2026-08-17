@@ -4,6 +4,7 @@ description: CEO of Scale AI, previously co-founded Scour with Travis Kalanick a
 expertise: ["AI-training-data", "enterprise-AI", "evals", "new-business-creation", "entrepreneurship", "data-labeling", "Uber-Eats"]
 companies: ["Scale AI", "Uber (Uber Eats)", "Scour"]
 panel: false
+topics: ["ai-and-machine-learning", "startups-and-founding"]
 ---
 
 # Jason Droege

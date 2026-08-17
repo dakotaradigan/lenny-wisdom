@@ -4,6 +4,7 @@ description: Product ownership expert specializing in local-CEO PM model, hiring
 expertise: ["product-ownership", "PM-hiring", "fintech-product", "wow-product-design", "global-scaling", "founder-led-product-reviews", "PM-career-development"]
 companies: ["Revolut"]
 panel: false
+topics: ["leadership-and-management", "startups-and-founding"]
 ---
 
 # Dmitry Zlokazov

@@ -4,6 +4,7 @@ description: AI evals as the essential new skill for product builders, error ana
 expertise: ["ai-evals", "error-analysis", "llm-quality", "ai-product-development", "open-coding", "data-analytics-for-ai", "prompt-engineering"]
 companies: ["Independent (Eval Course Creators)"]
 panel: false
+topics: ["ai-and-machine-learning", "engineering-and-technical"]
 ---
 
 # Hamel Husain & Shreya Shankar

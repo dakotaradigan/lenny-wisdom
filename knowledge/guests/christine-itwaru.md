@@ -4,6 +4,7 @@ description: Product ops pioneer on the role of product operations, voice of cus
 expertise: ["product-operations", "voice-of-customer", "pm-effectiveness", "product-ops-tooling", "cross-functional-alignment", "product-development-process", "b2b-product-ops"]
 companies: ["Pendo"]
 panel: false
+topics: ["b2b-products", "leadership-and-management"]
 ---
 
 # Christine Itwaru

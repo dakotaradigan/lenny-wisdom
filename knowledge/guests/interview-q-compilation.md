@@ -4,6 +4,7 @@ description: A curated compilation of 17 favorite interview questions from over 
 expertise: ["interviewing", "hiring", "candidate-evaluation", "self-awareness", "PM-interviews", "leadership-hiring"]
 companies: []
 panel: false
+topics: ["career-development", "leadership-and-management"]
 ---
 
 # Interview Question Compilation

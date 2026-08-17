@@ -4,6 +4,7 @@ description: Handshake CEO, pivoting a career platform into AI data labeling, ex
 expertise: ["ai-data-labeling", "post-training", "expert-networks", "platform-pivot", "hypergrowth", "talent-marketplace"]
 companies: ["Handshake"]
 panel: false
+topics: ["consumer-products", "startups-and-founding"]
 ---
 
 # Garrett Lord

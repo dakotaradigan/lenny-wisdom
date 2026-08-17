@@ -4,6 +4,7 @@ description: Editor in chief of Entrepreneur Magazine, expert on how to get pres
 expertise: ["press-strategy", "media-relations", "pitching-journalists", "content-strategy", "founder-storytelling", "Entrepreneur-Magazine"]
 companies: ["Entrepreneur Magazine", "Fast Company"]
 panel: false
+topics: ["product-strategy", "startups-and-founding"]
 ---
 
 # Jason Feifer

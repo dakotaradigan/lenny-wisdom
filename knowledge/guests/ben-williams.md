@@ -4,6 +4,7 @@ description: Developer security PLG expert on product-led growth loops, freemium
 expertise: ["product-led-growth", "developer-tools", "growth-loops", "freemium-strategy", "community-led-growth", "product-led-sales", "b2b-growth"]
 companies: ["Snyk", "CloudBees", "IBM"]
 panel: false
+topics: ["go-to-market-and-sales", "growth-and-retention"]
 ---
 
 # Ben Williams

@@ -4,6 +4,7 @@ description: Product Hunt founding, product launches, community building, Weeken
 expertise: ["product-launches", "community-building", "early-stage-investing", "startup-experiments", "founder-advice", "Product-Hunt"]
 companies: ["Product Hunt", "Weekend Fund"]
 panel: false
+topics: ["consumer-products", "startups-and-founding"]
 ---
 
 # Ryan Hoover

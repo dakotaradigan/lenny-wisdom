@@ -4,6 +4,7 @@ description: Brand naming expert specializing in the science of naming, sound sy
 expertise: ["brand-naming", "sound-symbolism", "linguistic-engineering", "brand-strategy", "trademark-clearing", "naming-process"]
 companies: ["Lexicon Branding"]
 panel: false
+topics: ["go-to-market-and-sales", "product-strategy"]
 ---
 
 # David Placek

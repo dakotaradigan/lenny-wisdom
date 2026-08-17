@@ -4,6 +4,7 @@ description: Lettering artist and design legend specializing in custom typograph
 expertise: ["typography", "logo-design", "brand-refresh", "visual-identity", "design-craft", "brand-strategy"]
 companies: ["Independent (clients include Apple, Nike, Mailchimp, Wes Anderson)"]
 panel: false
+topics: ["product-management-craft", "product-strategy"]
 ---
 
 # Jessica Hische

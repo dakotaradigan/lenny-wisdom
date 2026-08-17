@@ -4,6 +4,7 @@ description: Clinical psychologist applying parenting principles to workplace le
 expertise: ["workplace-psychology", "repair-in-leadership", "boundary-setting", "resilience-building", "connecting-before-correcting", "managing-difficult-people", "team-dynamics"]
 companies: ["Good Inside"]
 panel: false
+topics: ["leadership-and-management", "systems-thinking-and-mental-models"]
 ---
 
 # Dr. Becky Kennedy

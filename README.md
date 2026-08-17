@@ -1,12 +1,12 @@
 # Lenny's Guest Graph
 
-What would Lenny's guests do? A knowledge graph of **289 Lenny's Podcast guests**, **15 topics**, **56 named frameworks**, and the **91 companies** that connect them — plus a Claude Code plugin that turns it into an interactive PM thought partner.
+What would Lenny's guests do? A knowledge graph of **289 Lenny's Podcast guests**, **15 broad topic areas**, **56 named frameworks**, and the **91 companies** that connect them — plus a Claude Code plugin that turns it into an interactive PM thought partner.
 
 ![Lenny's Guest Graph](docs/preview.png)
 
 ## The graph
 
-Every guest, topic, framework, and shared company in the knowledge base, connected — 451 nodes, 700 edges.
+Every guest, topic, framework, and shared company in the knowledge base, connected — 451 nodes, 798 edges. Every one of the 289 guests is linked: through the topics that cite them, the frameworks they coined, the companies they share — and, for guests none of those cover, topic edges inferred from their expertise tags.
 
 - **Explore it interactively:** open [`docs/index.html`](docs/index.html) locally, or enable GitHub Pages (Settings → Pages → Deploy from branch → `/docs`) to host it at `https://dakotaradigan.github.io/lennys-guest-graph/`
 - **Query it in Claude Code:** `/lenny-graph` answers questions like "which guests worked at Stripe?" or "how are Shreyas Doshi and Annie Duke connected?"
@@ -64,7 +64,7 @@ The plugin works with sensible defaults. Run `/lenny-setup` anytime to personali
 ### Knowledge base
 
 - **289 guest profiles** — Synthesized frameworks, key ideas, and notable quotes from every Lenny's Podcast guest
-- **15 topic files** — Cross-guest synthesis on growth, strategy, PMF, pricing, leadership, and more
+- **15 broad topic areas** — Cross-guest synthesis on growth, strategy, PMF, pricing, leadership, and more
 - **56 frameworks** — Named frameworks like North Star Metric, LNO, DHM Model, Adjacent User Theory, Superhuman PMF Engine, and more
 - **Index files** — Guest and topic indexes for fast matching (the plugin never loads all files at once)
 - **`knowledge/graph.json`** — The full node/edge graph, generated from the files above; guests carry `topics:` backlinks so every connection is navigable in both directions

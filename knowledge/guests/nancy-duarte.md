@@ -4,6 +4,7 @@ description: Presentation storytelling, the what-is/what-could-be story structur
 expertise: ["presentation-design", "storytelling", "public-speaking", "visual-communication", "narrative-structure", "empathy-driven-communication"]
 companies: ["Duarte"]
 panel: false
+topics: ["career-development", "consumer-products"]
 ---
 
 # Nancy Duarte

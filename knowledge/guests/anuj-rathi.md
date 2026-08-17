@@ -4,6 +4,7 @@ description: India's most recommended product leader specializing in full-stack 
 expertise: ["full-stack-pm", "india-product-management", "user-onboarding-emerging-markets", "lazy-vain-selfish-users", "cross-selling-strategy", "food-delivery-growth", "neobank-products", "marketing-to-product-continuity"]
 companies: ["Jupiter Money", "Swiggy", "Flipkart", "Snapdeal", "Walmart Labs"]
 panel: false
+topics: ["growth-and-retention", "product-strategy"]
 ---
 
 # Anuj Rathi
