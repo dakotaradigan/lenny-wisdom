@@ -1,47 +1,44 @@
 ---
 name: lenny-graph
-description: Explore connections in Lenny's Guest Graph — how guests, topics, frameworks, and companies relate. Use when the user asks "who's connected to", "which guests worked at", "who else covers this topic", or wants to navigate the knowledge base by relationships.
+description: Route a brainstorm or problem through Lenny's Guest Graph to find the right experts, frameworks, and debates. Use when the user wants "feedback from the best", "who should weigh in on this", "who's thought about this problem", has a half-formed idea to pressure-test — or asks a pure connection question like "which guests worked at Stripe".
 ---
 
 # Lenny's Guest Graph
 
-Navigate the knowledge base as a graph: guests, topics, frameworks, and the companies that connect them.
+You have a map of 289 of the industry's finest operators — who knows what, which frameworks they coined, where they worked, and how they connect. The main event: take the user's brainstorm and route it to the right minds.
 
 ## Data
 
-Read `${CLAUDE_PLUGIN_ROOT}/knowledge/graph.json`. It contains:
+Read `${CLAUDE_PLUGIN_ROOT}/knowledge/graph.json`:
 
-- **nodes** — `id` (e.g. `guest:shreyas-doshi`, `topic:product-strategy`, `framework:lno-framework`, `company:stripe`), `type`, `name`, and `file` (the knowledge-base file to open for detail)
-- **edges** — `source`, `target`, `kind` (`topic-guest`, `topic-framework`, `framework-guest`, `guest-company`)
+- **nodes** — `id` (`guest:shreyas-doshi`, `topic:product-strategy`, `framework:lno-framework`, `company:stripe`), `type`, `name`, and `file` (the knowledge-base file to open for detail)
+- **edges** — `source`, `target`, `kind` (`topic-guest`, `topic-guest-inferred`, `topic-framework`, `framework-guest`, `guest-company`)
 
-Guest frontmatter also carries `topics:` backlinks, and topic frontmatter carries `related_guests` / `related_frameworks` — use whichever direction is cheaper for the question.
+Guest frontmatter carries `topics:` backlinks; topic frontmatter carries `related_guests` / `related_frameworks`. Curated `topic-guest` edges outrank `topic-guest-inferred` ones when choosing voices.
 
-## Instructions
+## The main event: route a brainstorm
 
-### Answering connection questions
+When the user brings an idea, problem, or half-formed thought ("I'm thinking about usage-based pricing for our AI feature", "should we kill our free tier?"):
 
-1. Read `graph.json` and collect the edges touching the entity in question
-2. Group connections by type (topics, frameworks, companies, guests one hop away)
-3. Present the neighborhood conversationally, not as a data dump — lead with the most interesting connections
-4. For any node the user wants to go deeper on, open its `file` from the knowledge base
+1. **Map it to topic areas.** Read the graph and identify the 1-3 topics the problem actually lives in — including the non-obvious one (a pricing question is often a positioning question).
+2. **Assemble the voices.** Walk the topic edges to the guests around those topics. Pick 4-7, preferring curated edges, spanning *different vantage points* — an operator who lived it, a specialist who coined the framework, someone from a company facing the same shape of problem (use `guest-company` edges for this: "three of these voices scaled pricing at PLG companies").
+3. **Pull the instruments.** Surface the 2-4 frameworks connected to those topics/guests that would pressure-test the idea, each credited to its source guest.
+4. **Name the tension.** Find at least one pair of selected guests who would likely pull in opposite directions, and say why. The disagreement is where the user's context matters most — lead with it, not with consensus.
+5. **Brief, then hand off.** Present this as a short briefing: *who to hear from and why, what to pressure-test with, where the experts split.* Then offer the next move:
+   - "Want to hear them actually debate it? `/lenny-panel`"
+   - "Want one voice in depth? `/lenny-ask-guest`"
+   - "Want to think it through Socratically first? `/lenny-wwld`"
 
-Typical questions this answers:
+Keep the briefing conversational — the graph is the scout, not the show. Open a guest's `file` only when the user drills into that voice.
+
+## Also supported: connection questions
+
+The graph answers direct lookups too — treat these as quick, factual, and secondary:
 
 - "Which guests worked at Stripe?" — edges from `company:stripe`
-- "Who else covers pricing?" — neighbors of `topic:pricing-and-monetization`
-- "How are Shreyas Doshi and Annie Duke connected?" — find shared neighbors (both link to `topic:systems-thinking-and-mental-models` and the Pre-mortem framework)
-- "Which frameworks came out of Netflix alumni?" — guests with a `company:netflix` edge, then their `framework-guest` edges
+- "How are Shreyas Doshi and Annie Duke connected?" — shared neighbors first (same topic, company, or framework); if none, walk one more hop and narrate the path
+- "Which frameworks came from Netflix alumni?" — `company:netflix` guests, then their `framework-guest` edges
 
-### Two-hop paths
+## The visual
 
-For "how is X related to Y" questions, look for shared neighbors first (same topic, same company, same framework). If none, walk one more hop and narrate the path: "Shreyas and Kim Scott don't overlap directly, but both connect to Leadership & Management through..."
-
-### Suggesting the visual
-
-When a question is really about the big picture ("show me the whole graph", "what does the knowledge base look like"), point the user at the interactive version: `docs/index.html` in this repo, or the GitHub Pages site if published.
-
-### Handing off
-
-When the user lands on a guest or framework they want to actually use:
-- "Want [Guest]'s full perspective on your question? Try `/lenny-ask-guest`."
-- "Want to hear several of these connected guests debate it? Try `/lenny-panel`."
+For big-picture questions ("show me the whole graph"), point at the interactive version: `docs/index.html` in this repo, or the GitHub Pages site if published.

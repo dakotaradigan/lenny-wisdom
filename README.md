@@ -8,9 +8,11 @@ What would Lenny's guests do? A knowledge graph of **289 Lenny's Podcast guests*
 
 Every guest, topic, framework, and shared company in the knowledge base, connected — 451 nodes, 798 edges. Every one of the 289 guests is linked: through the topics that cite them, the frameworks they coined, the companies they share — and, for guests none of those cover, topic edges inferred from their expertise tags.
 
+- **Get feedback from the industry's finest:** bring `/lenny-graph` a brainstorm and it routes the problem through the graph — which experts should weigh in, which frameworks pressure-test it, and where those experts would disagree — then tees up a `/lenny-panel` debate
 - **Explore it interactively:** open [`docs/index.html`](docs/index.html) locally, or enable GitHub Pages (Settings → Pages → Deploy from branch → `/docs`) to host it at `https://dakotaradigan.github.io/lennys-guest-graph/`
-- **Query it in Claude Code:** `/lenny-graph` answers questions like "which guests worked at Stripe?" or "how are Shreyas Doshi and Annie Duke connected?"
 - **Regenerate it:** `python3 scripts/build_graph.py` rebuilds `knowledge/graph.json` (and the viz data) from the knowledge-base frontmatter, and lints for broken cross-links
+
+(It handles direct lookups too — "which guests worked at Stripe?", "how are Shreyas Doshi and Annie Duke connected?" — but the routing is the point.)
 
 Edges are derived entirely from the knowledge base itself: topics link to their key guests and frameworks, frameworks link to the guests who coined them, and guests link to the companies they've worked at.
 
@@ -28,7 +30,7 @@ A [Claude Code](https://claude.com/claude-code) plugin that acts as a Socratic t
 | `/lenny-panel` | Assemble a panel of experts — see where they agree and disagree |
 | `/lenny-feedback` | Get framework-grounded feedback on a PRD, strategy doc, or idea |
 | `/lenny-frameworks` | Browse 56 named product frameworks by category |
-| `/lenny-graph` | Explore the guest graph — who connects to whom, and through what |
+| `/lenny-graph` | Bring a brainstorm — the graph finds the right experts, the frameworks to pressure-test it, and where the experts disagree |
 | `/lenny-previous-chats` | Resume a saved conversation |
 
 ## Install
